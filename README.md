@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Muhammad Ehsan!
 <a href='https://www.linkedin.com/in/muhammad--ehsan/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/muhammadehsan000'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/muhammadehsan02'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Data Scientist, ML Engineer or beginner Web Developer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -12,8 +12,8 @@ I am a versatilist and easily adapt to different hats (Data Scientist, ML Engine
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working as a **Freelancer**
-- 🌱 &nbsp; I’m currently learning Gen AI
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MuhammadEhsan02?tab=repositories)
+- 🌱 &nbsp; I’m currently learning Generative AI
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Kaggle](https://www.kaggle.com/muhammadehsan02/code)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/)
 
@@ -28,5 +28,4 @@ I am a versatilist and easily adapt to different hats (Data Scientist, ML Engine
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
 <br>
