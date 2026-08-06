@@ -11,8 +11,8 @@ I am a versatilist and easily adapt to different hats (Data Scientist and AI Eng
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working as a **Freelance Data Scientist**
-- 🌱 &nbsp; I’m currently learning **Agentic AI**
+- 🔭 &nbsp; I’m currently working as a **AI Research Engineer**
+- 🌱 &nbsp; I’m currently learning **Physical AI**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Kaggle](https://www.kaggle.com/muhammadehsan02/code)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/)
