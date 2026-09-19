@@ -1,31 +1,62 @@
-## Hey 👋, I'm Muhammad Ehsan!
-<a href='https://www.linkedin.com/in/muhammad--ehsan/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/muhammadehsan02'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+# Muhammad Ehsan
 
+**AI Research Engineer | Agentic AI | Multi-Agent Systems | Physical AI**
 
-I am a versatilist and easily adapt to different hats (Data Scientist and AI Engineer) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+[LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/) · [Kaggle](https://www.kaggle.com/muhammadehsan02)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+I am an AI researcher and engineer focused on developing intelligent systems for real-world applications. My current work centers on **Agentic AI, Multi-Agent Systems, Physical AI, Edge AI, and AI Security**, with a particular interest in autonomous systems and UAVs.
 
-- 🔭 &nbsp; I’m currently working as a **AI Research Engineer**
-- 🌱 &nbsp; I’m currently learning **Physical AI**
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Kaggle](https://www.kaggle.com/muhammadehsan02/code)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/)
+My research interests span the intersection of **deep learning, generative AI, intelligent agents, autonomous systems, and cybersecurity**. I am particularly interested in how AI agents can collaborate, reason, adapt to changing environments, and support autonomous decision-making in real-world settings.
 
-<br>
+## Current Research
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+My current focus includes:
 
-<br>
-<br>
+* Agentic AI and AI agents
+* Multi-Agent Systems
+* Physical AI and embodied intelligence
+* UAVs and autonomous systems
+* Edge AI
+* AI Security and intelligent cybersecurity
+* Deep Learning and Generative AI
+
+I am currently exploring the application of **Agentic AI and Multi-Agent Systems to UAV swarms and disaster management**, while expanding my work toward **Physical AI and embodied intelligent systems**.
+
+## Research
+
+My research work covers areas including:
+
+* Multi-agent and federated learning
+* UAV intrusion detection and security
+* Generative AI for cybersecurity
+* Edge intelligence
+* Agentic AI for autonomous systems
+* Embodied and physical AI
+
+My research has been published in IEEE venues including **IEEE Transactions on Consumer Electronics, IEEE Network, and IEEE Internet of Things Magazine**.
+
+## Technical Skills
+
+### Artificial Intelligence
+
+Python · PyTorch · TensorFlow · Deep Learning · Transformers · Generative AI · Agentic AI
+
+### Research Areas
+
+Multi-Agent Systems · Physical AI · Edge AI · Computer Vision · AI Security · UAV Systems
+
+### Software & Development
+
+Git · GitHub · Linux · Docker · TypeScript · Java
+
+## Projects
+
+This profile contains implementations, research experiments, and practical projects covering machine learning, deep learning, generative AI, agentic systems, and intelligent autonomous systems.
+
+I use GitHub primarily to document research implementations, technical experiments, and projects related to emerging AI technologies.
+
+## Connect
+
+**LinkedIn:** [Muhammad Ehsan](https://www.linkedin.com/in/muhammad--ehsan/)
+
+**Kaggle:** [muhammadehsan02](https://www.kaggle.com/muhammadehsan02)
