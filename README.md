@@ -58,5 +58,3 @@ I use GitHub primarily to document research implementations, technical experimen
 ## Connect
 
 **LinkedIn:** [Muhammad Ehsan](https://www.linkedin.com/in/muhammad--ehsan/)
-
-**Kaggle:** [muhammadehsan02](https://www.kaggle.com/muhammadehsan02)
