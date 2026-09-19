@@ -2,7 +2,7 @@
 
 **AI Research Engineer | Agentic AI | Multi-Agent Systems | Physical AI**
 
-[LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/) · [Kaggle](https://www.kaggle.com/muhammadehsan02)
+[LinkedIn](https://www.linkedin.com/in/muhammad--ehsan/) · [Kaggle](https://www.kaggle.com/muhammadehsan02) · [ResearchGate](https://www.researchgate.net/profile/Muhammad-Ehsan-34)
 
 I am an AI researcher and engineer focused on developing intelligent systems for real-world applications. My current work centers on **Agentic AI, Multi-Agent Systems, Physical AI, Edge AI, and AI Security**, with a particular interest in autonomous systems and UAVs.
 
